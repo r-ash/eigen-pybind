@@ -34,6 +34,12 @@ import example
 example.add(1, 2)
 ```
 
+To run test functions
+
+```
+./scripts/test
+```
+
 ## License
 
 `eigen-pybind` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.

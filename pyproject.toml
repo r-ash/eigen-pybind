@@ -26,6 +26,7 @@ classifiers = [
 ]
 dependencies = [
   "pybind11",
+  "numpy"
 ]
 
 [project.urls]
