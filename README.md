@@ -40,6 +40,9 @@ To run test functions
 ./scripts/test
 ```
 
+As far as I can see the Eigen::Tensor bindings in pybind11 are not well 
+documented. A lot of this was based off reading https://github.com/pybind/pybind11/pull/4201/files
+
 ## License
 
 `eigen-pybind` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
